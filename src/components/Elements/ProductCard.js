@@ -27,11 +27,7 @@ export const ProductCard = ({ product }) => {
             Best Seller
           </span>
         )}
-        <img
-          className="rounded-t-lg w-full h-64"
-          src={image_local}
-          alt={name}
-        />
+        <img className="rounded-t-lg w-full h-64" src={poster} alt={name} />
       </Link>
       <div className="p-5">
         <Link to={`/products/${id}`}>
