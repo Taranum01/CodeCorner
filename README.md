@@ -21,3 +21,6 @@ An e-commerce platform built using **React**, styled with **Tailwind CSS**, and 
 
 
 Link-https://code-corner.netlify.app/
+
+<img src="https://github.com/Taranum01/CodeCorner/blob/main/codecorner.png" alt="CodeCorner Demo" />
+
